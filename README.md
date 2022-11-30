@@ -1,3 +1,5 @@
+# Week 2 Remastery
+
 Complete the problems in the order specified. You should have `mocha` installed
 and will need to pass all the tests in order to move on.
 
